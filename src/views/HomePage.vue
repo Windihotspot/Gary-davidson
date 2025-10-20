@@ -42,7 +42,7 @@ const activeNav = ref('Home')
         size="large"
         class="!text-[#d8ff00] font-semibold border border-[#d8ff00] hover:!bg-[#d8ff00] hover:!text-[#04131b]"
       >
-        Hire Me
+        Hire Us
         <v-icon icon="mdi-arrow-right" class="ml-2" />
       </v-btn>
     </header>
